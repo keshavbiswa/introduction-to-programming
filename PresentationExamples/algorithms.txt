@@ -1,0 +1,29 @@
+Problem to be solved
+
+How to make tea?
+
+Contstraints
+
+1. Make tea for diabetic people
+
+Inputs
+Sugar
+Milk
+
+Outputs
+Tea
+
+Solutions
+
+1. Boil the water
+2. Add the tea leaves
+3. Boil water
+4. Add Milk
+5. Do you want sugar?
+  a.If yes? Are you diabetic?
+    a. If yes Add sugarfree
+    b. If no, add Sugar
+  b. If no? Your tea is ready. 
+
+Hot Tea (without lemon)
+
